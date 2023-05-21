@@ -554,8 +554,8 @@
             filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "93"
-            endingLineNumber = "93"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
             landmarkName = "test_whenBadRequestReceived_shouldRethrowNetworkError()"
             landmarkType = "7">
             <Locations>
@@ -602,8 +602,8 @@
             filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
             landmarkName = "test_whenBadRequestReceived_shouldRethrowNetworkError()"
             landmarkType = "7">
             <Locations>
@@ -1160,8 +1160,8 @@
             filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "130"
-            endingLineNumber = "130"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
             landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
             landmarkType = "7">
             <Locations>
@@ -1208,8 +1208,8 @@
             filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "134"
-            endingLineNumber = "134"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
             landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
             landmarkType = "7">
             <Locations>
@@ -1304,8 +1304,8 @@
             filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "129"
-            endingLineNumber = "129"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
             landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
             landmarkType = "7">
             <Locations>
@@ -1544,8 +1544,8 @@
             filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "123"
-            endingLineNumber = "123"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
             landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
             landmarkType = "7">
             <Locations>
@@ -1880,8 +1880,8 @@
             filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "127"
-            endingLineNumber = "127"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
             landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
             landmarkType = "7">
             <Locations>
@@ -1928,8 +1928,8 @@
             filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
             landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
             landmarkType = "7">
             <Locations>
@@ -1976,8 +1976,8 @@
             filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
             landmarkType = "7">
             <Locations>
@@ -2024,8 +2024,8 @@
             filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
             landmarkName = "test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError()"
             landmarkType = "7">
             <Locations>
@@ -2072,8 +2072,8 @@
             filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
             landmarkName = "test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError()"
             landmarkType = "7">
             <Locations>
@@ -2120,8 +2120,8 @@
             filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "183"
-            endingLineNumber = "183"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
             landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2136,8 +2136,8 @@
             filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "187"
-            endingLineNumber = "187"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
             landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2168,8 +2168,8 @@
             filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "197"
-            endingLineNumber = "197"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
             landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2362,8 +2362,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "29"
             endingLineNumber = "29"
-            landmarkName = "PlanetsRepositoryMock"
-            landmarkType = "14">
+            landmarkName = "fetchPlanets(query:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

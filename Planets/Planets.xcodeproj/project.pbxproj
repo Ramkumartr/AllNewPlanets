@@ -25,6 +25,12 @@
 		680A0B332A1A868A0084518D /* PlanetsResponseEntity+Mapping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A9AD9529F1AF9200AE9182 /* PlanetsResponseEntity+Mapping.swift */; };
 		680A0B342A1A868E0084518D /* CoreDataPlanetsResponseStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A9AD9029F1ABB400AE9182 /* CoreDataPlanetsResponseStorage.swift */; };
 		680A0B352A1A86970084518D /* DefaultPlanetsRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6821CC1029F0A6E6003622FF /* DefaultPlanetsRepository.swift */; };
+		680A0B412A1AC4FA0084518D /* FetchPlanetsUseCaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A0B372A1AC4FA0084518D /* FetchPlanetsUseCaseTests.swift */; };
+		680A0B422A1AC4FA0084518D /* PlanetsViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A0B3A2A1AC4FA0084518D /* PlanetsViewModelTests.swift */; };
+		680A0B432A1AC4FA0084518D /* NetworkConfigurableMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A0B3D2A1AC4FA0084518D /* NetworkConfigurableMock.swift */; };
+		680A0B442A1AC4FA0084518D /* NetworkSessionManagerMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A0B3E2A1AC4FA0084518D /* NetworkSessionManagerMock.swift */; };
+		680A0B452A1AC4FA0084518D /* NetworkServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A0B3F2A1AC4FA0084518D /* NetworkServiceTests.swift */; };
+		680A0B462A1AC4FA0084518D /* DataTransferServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680A0B402A1AC4FA0084518D /* DataTransferServiceTests.swift */; };
 		6821CBA729EF0FAC003622FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6821CBA629EF0FAC003622FF /* AppDelegate.swift */; };
 		6821CBB129EF0FAC003622FF /* Planets.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6821CBAF29EF0FAC003622FF /* Planets.xcdatamodeld */; };
 		6821CBB329EF0FB1003622FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6821CBB229EF0FB1003622FF /* Assets.xcassets */; };
@@ -101,6 +107,12 @@
 		680A0B1E2A1A61BD0084518D /* DomainDI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DomainDI.swift; sourceTree = "<group>"; };
 		680A0B202A1A621C0084518D /* DataDI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataDI.swift; sourceTree = "<group>"; };
 		680A0B2D2A1A7E740084518D /* PlanetsResponseStorageDI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanetsResponseStorageDI.swift; sourceTree = "<group>"; };
+		680A0B372A1AC4FA0084518D /* FetchPlanetsUseCaseTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FetchPlanetsUseCaseTests.swift; sourceTree = "<group>"; };
+		680A0B3A2A1AC4FA0084518D /* PlanetsViewModelTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetsViewModelTests.swift; sourceTree = "<group>"; };
+		680A0B3D2A1AC4FA0084518D /* NetworkConfigurableMock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkConfigurableMock.swift; sourceTree = "<group>"; };
+		680A0B3E2A1AC4FA0084518D /* NetworkSessionManagerMock.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkSessionManagerMock.swift; sourceTree = "<group>"; };
+		680A0B3F2A1AC4FA0084518D /* NetworkServiceTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkServiceTests.swift; sourceTree = "<group>"; };
+		680A0B402A1AC4FA0084518D /* DataTransferServiceTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataTransferServiceTests.swift; sourceTree = "<group>"; };
 		6821CBA329EF0FAC003622FF /* Planets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Planets.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6821CBA629EF0FAC003622FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6821CBB029EF0FAC003622FF /* Planets.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Planets.xcdatamodel; sourceTree = "<group>"; };
@@ -205,6 +217,49 @@
 			path = DI;
 			sourceTree = "<group>";
 		};
+		680A0B362A1AC4FA0084518D /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				680A0B372A1AC4FA0084518D /* FetchPlanetsUseCaseTests.swift */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		680A0B382A1AC4FA0084518D /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				680A0B392A1AC4FA0084518D /* PlanetScene */,
+			);
+			path = Presentation;
+			sourceTree = "<group>";
+		};
+		680A0B392A1AC4FA0084518D /* PlanetScene */ = {
+			isa = PBXGroup;
+			children = (
+				680A0B3A2A1AC4FA0084518D /* PlanetsViewModelTests.swift */,
+			);
+			path = PlanetScene;
+			sourceTree = "<group>";
+		};
+		680A0B3B2A1AC4FA0084518D /* Infrastructure */ = {
+			isa = PBXGroup;
+			children = (
+				680A0B3C2A1AC4FA0084518D /* Mocks */,
+				680A0B3F2A1AC4FA0084518D /* NetworkServiceTests.swift */,
+				680A0B402A1AC4FA0084518D /* DataTransferServiceTests.swift */,
+			);
+			path = Infrastructure;
+			sourceTree = "<group>";
+		};
+		680A0B3C2A1AC4FA0084518D /* Mocks */ = {
+			isa = PBXGroup;
+			children = (
+				680A0B3D2A1AC4FA0084518D /* NetworkConfigurableMock.swift */,
+				680A0B3E2A1AC4FA0084518D /* NetworkSessionManagerMock.swift */,
+			);
+			path = Mocks;
+			sourceTree = "<group>";
+		};
 		6821CB9A29EF0FAB003622FF = {
 			isa = PBXGroup;
 			children = (
@@ -242,6 +297,9 @@
 		6821CBBF29EF0FB2003622FF /* PlanetsTests */ = {
 			isa = PBXGroup;
 			children = (
+				680A0B362A1AC4FA0084518D /* Domain */,
+				680A0B3B2A1AC4FA0084518D /* Infrastructure */,
+				680A0B382A1AC4FA0084518D /* Presentation */,
 				6821CBC029EF0FB2003622FF /* PlanetsTests.swift */,
 			);
 			path = PlanetsTests;
@@ -711,6 +769,7 @@
 			files = (
 				688E66902A016CC10067B6C5 /* Cancellable.swift in Sources */,
 				688E66832A0127B50067B6C5 /* DataTransferService.swift in Sources */,
+				680A0B452A1AC4FA0084518D /* NetworkServiceTests.swift in Sources */,
 				680A0B292A1A7D6A0084518D /* APIEndpoints.swift in Sources */,
 				688E66852A0127CB0067B6C5 /* Endpoint.swift in Sources */,
 				688E668D2A0162BC0067B6C5 /* PlanetModel.swift in Sources */,
@@ -720,18 +779,23 @@
 				6821CBC129EF0FB2003622FF /* PlanetsTests.swift in Sources */,
 				680A0B232A1A629D0084518D /* DataDI.swift in Sources */,
 				680A0B182A1A5FC00084518D /* Injected.swift in Sources */,
+				680A0B412A1AC4FA0084518D /* FetchPlanetsUseCaseTests.swift in Sources */,
 				688E668E2A016A920067B6C5 /* PlanetsRepository.swift in Sources */,
 				680A0B2F2A1A7EFE0084518D /* PlanetsResponseStorage.swift in Sources */,
 				688E66842A0127C10067B6C5 /* NetworkService.swift in Sources */,
 				680A0B342A1A868E0084518D /* CoreDataPlanetsResponseStorage.swift in Sources */,
+				680A0B422A1AC4FA0084518D /* PlanetsViewModelTests.swift in Sources */,
+				680A0B442A1AC4FA0084518D /* NetworkSessionManagerMock.swift in Sources */,
 				680A0B282A1A7D3D0084518D /* AppConfiguration.swift in Sources */,
 				680A0B262A1A7D290084518D /* PlanetsRequestDTO+Mapping.swift in Sources */,
 				680A0B352A1A86970084518D /* DefaultPlanetsRepository.swift in Sources */,
 				688E668F2A016CA00067B6C5 /* PlanetsQueryModel.swift in Sources */,
 				680A0B302A1A7F200084518D /* PlanetsResponseStorageDI.swift in Sources */,
 				680A0B272A1A7D2C0084518D /* PlanetsResponseDTO+Mapping.swift in Sources */,
+				680A0B432A1AC4FA0084518D /* NetworkConfigurableMock.swift in Sources */,
 				680A0B312A1A86820084518D /* Planets.xcdatamodeld in Sources */,
 				688E66912A01823C0067B6C5 /* FetchPlanetsUseCase.swift in Sources */,
+				680A0B462A1AC4FA0084518D /* DataTransferServiceTests.swift in Sources */,
 				680A0B332A1A868A0084518D /* PlanetsResponseEntity+Mapping.swift in Sources */,
 				688E66862A0128060067B6C5 /* NetworkConfig.swift in Sources */,
 				6839E18D2A027347008E73A3 /* PlanetsViewModel.swift in Sources */,
