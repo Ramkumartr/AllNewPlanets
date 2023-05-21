@@ -1,0 +1,2544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9D440F63-F57F-4BD9-A1B5-437F138A0169"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDFE4266-07E0-4115-969D-53B6D736695D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6316903E-B2CE-4A3D-9FF1-52EA970C581A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC558751-F2DE-4C5C-8A97-5A8767D34487"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Application/Router/Router.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "push(_:transition:animated:hideBottomBar:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "734EAF1E-4597-4021-8E00-B1B55E4BBCED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "updateLoading(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E4B8EB1-ABD1-4839-B054-EDFE39CA9984"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "updateData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB2D490A-DB06-444E-93E8-6B64951AF13E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "updateData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD5B36BF-9EE3-4DAC-AED8-57CE2B11EA10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "showError(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E143D339-C7D8-4F22-8942-AC04F67DD3B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "PlanetCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "670FC3B0-64A8-4E73-B05E-77D7E4B791F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Presentation/PlanetsScene/View/PlanetCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "bind(to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "307558B5-4176-4C00-8368-6D2EF959CAB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "JSONResponseDecoder"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "307558B5-4176-4C00-8368-6D2EF959CAB7 - db4fbdc3814aa63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.JSONResponseDecoder.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.Data) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  uuid = "307558B5-4176-4C00-8368-6D2EF959CAB7 - f8d1ca8b8c343c7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.JSONResponseDecoder.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.Data) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBA6790A-C609-44B7-A9BE-A198A1F1DB94"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBA6790A-C609-44B7-A9BE-A198A1F1DB94 - d38553fc32d38e94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: Planets.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1043">
+               </Location>
+               <Location
+                  uuid = "CBA6790A-C609-44B7-A9BE-A198A1F1DB94 - 522d63fd525cb832"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: PlanetsTests.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1043">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9982BA54-6F7D-487E-8056-09EA631755EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9982BA54-6F7D-487E-8056-09EA631755EE - d38553fc32d38d31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: Planets.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2154">
+               </Location>
+               <Location
+                  uuid = "9982BA54-6F7D-487E-8056-09EA631755EE - 522d63fd525cbb97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: PlanetsTests.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "2154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA9D03E9-D46B-4CEB-8A91-BD4CE3EFDE33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA9D03E9-D46B-4CEB-8A91-BD4CE3EFDE33 - d38553fc32d38eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: Planets.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "563">
+               </Location>
+               <Location
+                  uuid = "AA9D03E9-D46B-4CEB-8A91-BD4CE3EFDE33 - 522d63fd525cb87c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: PlanetsTests.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "563">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9778D51-0C87-4FA3-8BD6-3BDF852F35BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "DefaultNetworkService"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "A9778D51-0C87-4FA3-8BD6-3BDF852F35BA - 1c1d3d11a02e4322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.request(endpoint: Planets.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "289">
+               </Location>
+               <Location
+                  uuid = "A9778D51-0C87-4FA3-8BD6-3BDF852F35BA - ace2b5b625d912c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.request(endpoint: PlanetsTests.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "289">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBC35AFD-6795-4191-B42F-F1C0281F22B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "request(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBC35AFD-6795-4191-B42F-F1C0281F22B7 - 1c1d3d11a02e4360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.request(endpoint: Planets.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "405">
+               </Location>
+               <Location
+                  uuid = "EBC35AFD-6795-4191-B42F-F1C0281F22B7 - 915c6f70a80322c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultNetworkService.request(endpoint: Planets.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "EBC35AFD-6795-4191-B42F-F1C0281F22B7 - ace2b5b625d91287"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.request(endpoint: PlanetsTests.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "405">
+               </Location>
+               <Location
+                  uuid = "EBC35AFD-6795-4191-B42F-F1C0281F22B7 - 95fbe99b700f8b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultNetworkService.request(endpoint: PlanetsTests.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "527C4D2C-8FA0-4F8A-9A70-A195FCCEDE85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "request(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "527C4D2C-8FA0-4F8A-9A70-A195FCCEDE85 - 1c1d3d11a02e423a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.request(endpoint: Planets.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "1142">
+               </Location>
+               <Location
+                  uuid = "527C4D2C-8FA0-4F8A-9A70-A195FCCEDE85 - 915c6f70a803239e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultNetworkService.request(endpoint: Planets.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "893">
+               </Location>
+               <Location
+                  uuid = "527C4D2C-8FA0-4F8A-9A70-A195FCCEDE85 - ace2b5b625d913dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.request(endpoint: PlanetsTests.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "1142">
+               </Location>
+               <Location
+                  uuid = "527C4D2C-8FA0-4F8A-9A70-A195FCCEDE85 - 95fbe99b700f9ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultNetworkService.request(endpoint: PlanetsTests.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "893">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00F443F6-0157-4289-ADBD-847EBB6A025F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "test_whenBadRequestReceived_shouldRethrowNetworkError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00F443F6-0157-4289-ADBD-847EBB6A025F - 9ce99390caa9f0b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenBadRequestReceived_shouldRethrowNetworkError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "425">
+               </Location>
+               <Location
+                  uuid = "00F443F6-0157-4289-ADBD-847EBB6A025F - 9ce99390caae081b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenBadRequestReceived_shouldRethrowNetworkError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "425">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A0EADB1-13AB-4C8B-8F2B-8CAAE16C9CBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "test_whenBadRequestReceived_shouldRethrowNetworkError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A0EADB1-13AB-4C8B-8F2B-8CAAE16C9CBA - 9ce99390caa9f03c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenBadRequestReceived_shouldRethrowNetworkError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "2178">
+               </Location>
+               <Location
+                  uuid = "8A0EADB1-13AB-4C8B-8F2B-8CAAE16C9CBA - 9ce99390caae0987"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenBadRequestReceived_shouldRethrowNetworkError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "2178">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC8AB121-FEEF-4520-8B7C-A3301C00478E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "request(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CC8AB121-FEEF-4520-8B7C-A3301C00478E - 2f9c6911c0ffcec7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "730">
+               </Location>
+               <Location
+                  uuid = "CC8AB121-FEEF-4520-8B7C-A3301C00478E - f3c13709735ca354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "730">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E188C231-CA2C-4546-B300-B677928CAA13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "request(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E188C231-CA2C-4546-B300-B677928CAA13 - 2f9c6911c0ffcec7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "730">
+               </Location>
+               <Location
+                  uuid = "E188C231-CA2C-4546-B300-B677928CAA13 - f3c13709735ca354"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "730">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECE35324-5031-4F7F-94F1-B4CD23FDDF97"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "request(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECE35324-5031-4F7F-94F1-B4CD23FDDF97 - 2f9c6911c0ffc9e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1915">
+               </Location>
+               <Location
+                  uuid = "ECE35324-5031-4F7F-94F1-B4CD23FDDF97 - f3c13709735ca47b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "1915">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58411608-6406-4A15-B732-375CFD3397B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "resolve(networkError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58411608-6406-4A15-B732-375CFD3397B7 - 3022fb3971ae6423"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.resolve(networkError: Planets.NetworkError) -&gt; Planets.DataTransferError"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "58411608-6406-4A15-B732-375CFD3397B7 - 9670d93d9648bf78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.resolve(networkError: PlanetsTests.NetworkError) -&gt; PlanetsTests.DataTransferError"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53B59CA3-9996-4F21-BF7B-8EA6F4A41167"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "resolve(networkError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53B59CA3-9996-4F21-BF7B-8EA6F4A41167 - 3022fb3971ae645d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.resolve(networkError: Planets.NetworkError) -&gt; Planets.DataTransferError"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "671">
+               </Location>
+               <Location
+                  uuid = "53B59CA3-9996-4F21-BF7B-8EA6F4A41167 - 9670d93d9648bf06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.resolve(networkError: PlanetsTests.NetworkError) -&gt; PlanetsTests.DataTransferError"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "671">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39721FF6-0447-4EBE-8AE4-E671709C4554"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "request(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39721FF6-0447-4EBE-8AE4-E671709C4554 - 1c1d3d11a02e43c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.request(endpoint: Planets.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "907">
+               </Location>
+               <Location
+                  uuid = "39721FF6-0447-4EBE-8AE4-E671709C4554 - 915c6f70a8032261"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultNetworkService.request(endpoint: Planets.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "666">
+               </Location>
+               <Location
+                  uuid = "39721FF6-0447-4EBE-8AE4-E671709C4554 - ace2b5b625d91222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.request(endpoint: PlanetsTests.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "907">
+               </Location>
+               <Location
+                  uuid = "39721FF6-0447-4EBE-8AE4-E671709C4554 - 95fbe99b700f813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultNetworkService.request(endpoint: PlanetsTests.Requestable) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "666">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D01766A-C51B-4095-A179-0E2B8D1BD825"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D01766A-C51B-4095-A179-0E2B8D1BD825 - d38553fc32d38eb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: Planets.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "2D01766A-C51B-4095-A179-0E2B8D1BD825 - 522d63fd525cb813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: PlanetsTests.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "913A6C90-0AF5-41AB-B91F-1E859B8B6BDF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "913A6C90-0AF5-41AB-B91F-1E859B8B6BDF - 4dd8e231d09b53e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Planets.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "926">
+               </Location>
+               <Location
+                  uuid = "913A6C90-0AF5-41AB-B91F-1E859B8B6BDF - 2b7849eb4326f12e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: PlanetsTests.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "926">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE68AD01-C9D8-4A83-A121-46F87AB5ADF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "resolve(error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE68AD01-C9D8-4A83-A121-46F87AB5ADF8 - bf1219e6b702dfed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.resolve(error: Swift.Error) -&gt; Planets.NetworkError"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "BE68AD01-C9D8-4A83-A121-46F87AB5ADF8 - 11efdb78fb6dfdf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.resolve(error: Swift.Error) -&gt; PlanetsTests.NetworkError"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A15AB0BE-81B9-4388-BB47-C5AF650D6123"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "DefaultNetworkService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A15AB0BE-81B9-4388-BB47-C5AF650D6123 - bf1219e6b702df92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.resolve(error: Swift.Error) -&gt; Planets.NetworkError"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "A15AB0BE-81B9-4388-BB47-C5AF650D6123 - 11efdb78fb6dfd8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.resolve(error: Swift.Error) -&gt; PlanetsTests.NetworkError"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6262BFE7-41E8-4327-A2BE-6A8F335175E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6262BFE7-41E8-4327-A2BE-6A8F335175E1 - 110313bcaba31c5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "203"
+                  endingLineNumber = "203"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "6262BFE7-41E8-4327-A2BE-6A8F335175E1 - 110313bcaba316f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08E8D9AE-CB85-4D88-9319-DDC04AE0DE62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08E8D9AE-CB85-4D88-9319-DDC04AE0DE62 - 110313bcaba31cdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "1694">
+               </Location>
+               <Location
+                  uuid = "08E8D9AE-CB85-4D88-9319-DDC04AE0DE62 - 110313bcaba31576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "1694">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "892E244E-529C-46A8-86D9-581D83927B5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "892E244E-529C-46A8-86D9-581D83927B5C - 807172cef1b6b415"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: Planets.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "383">
+               </Location>
+               <Location
+                  uuid = "892E244E-529C-46A8-86D9-581D83927B5C - bd106a3ee2094c51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: PlanetsTests.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "383">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8DAE431-F9EA-4564-8BBA-D8678DB90594"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8DAE431-F9EA-4564-8BBA-D8678DB90594 - 110313bcaba31dba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  uuid = "B8DAE431-F9EA-4564-8BBA-D8678DB90594 - 110313bcaba316d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "261">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F544508F-831D-48AD-8CDB-CE4CBDB58E11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "DefaultNetworkService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F544508F-831D-48AD-8CDB-CE4CBDB58E11 - ae04337e17dc61a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "F544508F-831D-48AD-8CDB-CE4CBDB58E11 - 3c7797a1328f5c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5788FE81-7AD7-40AA-9443-ADB5C1783DD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "decode(data:decoder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5788FE81-7AD7-40AA-9443-ADB5C1783DD8 - 14ba5dd6b6dcede8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, decoder: Planets.ResponseDecoder) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  uuid = "5788FE81-7AD7-40AA-9443-ADB5C1783DD8 - a0a033ebf715b2dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, decoder: PlanetsTests.ResponseDecoder) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADAF5FEA-765E-4B48-AE74-A46F734BEF3D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "decode(data:decoder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADAF5FEA-765E-4B48-AE74-A46F734BEF3D - 14ba5dd6b6dceec3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, decoder: Planets.ResponseDecoder) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "1485">
+               </Location>
+               <Location
+                  uuid = "ADAF5FEA-765E-4B48-AE74-A46F734BEF3D - a0a033ebf715b1f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, decoder: PlanetsTests.ResponseDecoder) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "167"
+                  endingLineNumber = "167"
+                  offsetFromSymbolStart = "1485">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DE0C80A-6CA2-4ADF-8577-84ED8617713C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "decode(data:decoder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5DE0C80A-6CA2-4ADF-8577-84ED8617713C - 14ba5dd6b6dcede8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, decoder: Planets.ResponseDecoder) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  uuid = "5DE0C80A-6CA2-4ADF-8577-84ED8617713C - a0a033ebf715b2dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.decode&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(data: Swift.Optional&lt;Foundation.Data&gt;, decoder: PlanetsTests.ResponseDecoder) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B75C3A19-ACD4-4A71-A833-69C08B07DFA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B75C3A19-ACD4-4A71-A833-69C08B07DFA6 - 60369a7fb5454aa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "1444">
+               </Location>
+               <Location
+                  uuid = "B75C3A19-ACD4-4A71-A833-69C08B07DFA6 - 60369a7fb5454246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "055C897A-8100-4E75-8FFF-E9FC99C690A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "055C897A-8100-4E75-8FFF-E9FC99C690A0 - d38553fc32d38df3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: Planets.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "2594">
+               </Location>
+               <Location
+                  uuid = "055C897A-8100-4E75-8FFF-E9FC99C690A0 - 522d63fd525cbb55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: PlanetsTests.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "2594">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC35EA04-FD81-48E8-BEC4-A12C28BACDBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "DefaultDataTransferService"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "CC35EA04-FD81-48E8-BEC4-A12C28BACDBF - 807172cef1b6b472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: Planets.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "351">
+               </Location>
+               <Location
+                  uuid = "CC35EA04-FD81-48E8-BEC4-A12C28BACDBF - bd106a3ee2094c36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0, &#x3c4;_0_1 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0 == &#x3c4;_0_1.Response, &#x3c4;_0_1: PlanetsTests.ResponseRequestable&gt;(with: &#x3c4;_0_1) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "351">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86E3B619-83F9-4F1C-872D-5852085134A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "DefaultDataTransferService"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "86E3B619-83F9-4F1C-872D-5852085134A3 - 6f55078d564f1f20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Planets.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  uuid = "86E3B619-83F9-4F1C-872D-5852085134A3 - cbef8976c73a3f39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: PlanetsTests.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "183">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88C5343F-7B92-4DDB-91E8-CD5A55360916"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88C5343F-7B92-4DDB-91E8-CD5A55360916 - 6f55078d564f1f7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Planets.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "88C5343F-7B92-4DDB-91E8-CD5A55360916 - cbef8976c73a3f67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: PlanetsTests.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B4E8D66-EE8D-4E6A-B799-3ED9044BD502"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B4E8D66-EE8D-4E6A-B799-3ED9044BD502 - 4dd8e231d09b536a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Planets.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1509">
+               </Location>
+               <Location
+                  uuid = "4B4E8D66-EE8D-4E6A-B799-3ED9044BD502 - 2b7849eb4326f1a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: PlanetsTests.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1509">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54BEC9BE-8D92-4F2D-82BD-5A0F6F043401"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/DataTransferService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "request(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "54BEC9BE-8D92-4F2D-82BD-5A0F6F043401 - 4dd8e231d09b5345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for Planets.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Planets.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "1332">
+               </Location>
+               <Location
+                  uuid = "54BEC9BE-8D92-4F2D-82BD-5A0F6F043401 - 2b7849eb4326f18d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.DefaultDataTransferService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: PlanetsTests.ResponseRequestable, &#x3c4;_0_0.Response == ()&gt;(with: &#x3c4;_0_0) async throws -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/DataTransferService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "1332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76B9162B-5E9C-4D7B-9C9F-DD629ED9EA2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "test_whenNoDataReceived_shouldThrowNoDataError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76B9162B-5E9C-4D7B-9C9F-DD629ED9EA2E - 60369a7fb5454835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "1536">
+               </Location>
+               <Location
+                  uuid = "76B9162B-5E9C-4D7B-9C9F-DD629ED9EA2E - 60369a7fb54543c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DataTransferServiceTests.test_whenNoDataReceived_shouldThrowNoDataError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/DataTransferServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "1536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D84E44E9-DCE2-4450-B276-5BC2BCA18124"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D84E44E9-DCE2-4450-B276-5BC2BCA18124 - 85c239c234854168"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "568">
+               </Location>
+               <Location
+                  uuid = "D84E44E9-DCE2-4450-B276-5BC2BCA18124 - 63500d7411c78e98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1894">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7C3494D-EB5D-42D4-9FD7-C66CE9A98E27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "test_whenMockDataPassed_shouldReturnProperResponse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D7C3494D-EB5D-42D4-9FD7-C66CE9A98E27 - 85c239c23485410f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1403">
+               </Location>
+               <Location
+                  uuid = "D7C3494D-EB5D-42D4-9FD7-C66CE9A98E27 - 85c239c23485410f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.NetworkServiceTests.test_whenMockDataPassed_shouldReturnProperResponse() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1471">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "415A4970-C9A7-409B-BE28-ED9121292718"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "415A4970-C9A7-409B-BE28-ED9121292718 - 7b7e95318fe5c6d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1439">
+               </Location>
+               <Location
+                  uuid = "415A4970-C9A7-409B-BE28-ED9121292718 - 7b7e95318fe5c6d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1406">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "527F016C-B484-4ABC-9C96-EE4B4C76E156"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "527F016C-B484-4ABC-9C96-EE4B4C76E156 - 7b7e95318fe5c6d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1439">
+               </Location>
+               <Location
+                  uuid = "527F016C-B484-4ABC-9C96-EE4B4C76E156 - 7b7e95318fe5c6d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.NetworkServiceTests.test_whenStatusCodeEqualOrAbove400_shouldReturnhasStatusCodeError() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "1406">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D7909D5-1DAE-49EC-849F-04DD29B5C651"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D7BBBA6-E6F7-4A3A-B8C0-CFA7BFC35E08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8F9FE2A-5860-4B98-A692-B4456F1DE6BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "NetworkErrorLoggerMock"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "543A19FE-6B54-44EF-A004-A5C52921E28E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "test_whenErrorWithNSURLErrorNotConnectedToInternetReturned_shouldLogThisError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25C0FBD5-5B58-4794-BE3D-7E91659DEE4A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Infrastructure/NetworkServiceTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "NetworkErrorLoggerMock"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F36AA208-7E51-4516-8175-377213F69013"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "DefaultNetworkService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F36AA208-7E51-4516-8175-377213F69013 - ae04337e17dc61a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "F36AA208-7E51-4516-8175-377213F69013 - 3c7797a1328f5c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkService.request(request: Foundation.URLRequest) async throws -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC2A6FDE-BB1A-4243-BAFE-CE1F77E46DF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Planets/Infrastructure/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "DefaultNetworkErrorLogger"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CC2A6FDE-BB1A-4243-BAFE-CE1F77E46DF5 - e1c5045d6a81b444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Planets.DefaultNetworkErrorLogger.log(request: Foundation.URLRequest) -&gt; ()"
+                  moduleName = "Planets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "CC2A6FDE-BB1A-4243-BAFE-CE1F77E46DF5 - b3069417545cc104"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.DefaultNetworkErrorLogger.log(request: Foundation.URLRequest) -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/Planets/Infrastructure/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF2C7190-4670-4BDC-BA6B-342D14C7F347"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "testFetchPlanetsUseCase_whenSuccessfullyFetchesPlanets()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF2C7190-4670-4BDC-BA6B-342D14C7F347 - ee0f0cf01077b351"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenSuccessfullyFetchesPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "2402">
+               </Location>
+               <Location
+                  uuid = "BF2C7190-4670-4BDC-BA6B-342D14C7F347 - 657e077eaf6f56ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenSuccessfullyFetchesPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8498EAF8-DE06-4FD3-ABE2-566D48B15221"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "testFetchPlanetsUseCase_whenSuccessfullyFetchesPlanets()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84653394-3C43-471E-8982-07C92B440AEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "PlanetsRepositoryMock"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B4B7BC1-61C4-4B6F-B48B-07904336221B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "testFetchPlanetsUseCase_whenFailedFetchingPlanets()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B4B7BC1-61C4-4B6F-B48B-07904336221B - 7fabd01faa33c6f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenFailedFetchingPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "598">
+               </Location>
+               <Location
+                  uuid = "7B4B7BC1-61C4-4B6F-B48B-07904336221B - 7fabd01faa33c6f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenFailedFetchingPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "967">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0164DE69-B9FC-4B00-9253-F5026D471F47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "testFetchPlanetsUseCase_whenFailedFetchingPlanets()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0164DE69-B9FC-4B00-9253-F5026D471F47 - c19a27b0f84a3b40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenFailedFetchingPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "0164DE69-B9FC-4B00-9253-F5026D471F47 - 7fabd01faa33c64b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenFailedFetchingPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "194">
+               </Location>
+               <Location
+                  uuid = "0164DE69-B9FC-4B00-9253-F5026D471F47 - c19a27b0f84a3b61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenFailedFetchingPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "0164DE69-B9FC-4B00-9253-F5026D471F47 - 7fabd01faa33c66a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for PlanetsTests.FetchPlanetsUseCaseTests.testFetchPlanetsUseCase_whenFailedFetchingPlanets() async -&gt; ()"
+                  moduleName = "PlanetsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ramsmac/AllNewPlanets/Planets/PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60E4124F-53D7-432A-9D8B-F2E21C606F0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchPlanets(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECD8D0E1-6295-4233-BC23-12197090B8FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchPlanets(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B1CA93B-B474-4C24-B7EB-12DE1F0F01B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlanetsTests/Domain/FetchPlanetsUseCaseTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "testFetchPlanetsUseCase_whenFailedFetchingPlanets()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="PlanetResponseEntity" representedClassName="PlanetResponseEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="climate" optional="YES" attributeType="String"/>
+        <attribute name="created" optional="YES" attributeType="String"/>
+        <attribute name="diameter" optional="YES" attributeType="String"/>
+        <attribute name="edited" optional="YES" attributeType="String"/>
+        <attribute name="gravity" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="orbitalPeriod" optional="YES" attributeType="String"/>
+        <attribute name="population" optional="YES" attributeType="String"/>
+        <attribute name="rotationPeriod" optional="YES" attributeType="String"/>
+        <attribute name="surfaceWater" optional="YES" attributeType="String"/>
+        <attribute name="terrain" optional="YES" attributeType="String"/>
+        <attribute name="url" optional="YES" attributeType="String"/>
+        <relationship name="planetsResponse" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PlanetsResponseEntity" inverseName="results" inverseEntity="PlanetsResponseEntity"/>
+    </entity>
+    <entity name="PlanetsRequestEntity" representedClassName="PlanetsRequestEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="page" optional="YES" attributeType="String"/>
+        <relationship name="response" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="PlanetsResponseEntity" inverseName="request" inverseEntity="PlanetsResponseEntity"/>
+    </entity>
+    <entity name="PlanetsResponseEntity" representedClassName="PlanetsResponseEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="count" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="next" optional="YES" attributeType="String"/>
+        <attribute name="previous" optional="YES" attributeType="String"/>
+        <relationship name="request" optional="YES" maxCount="1" deletionRule="Cascade" destinationEntity="PlanetsRequestEntity" inverseName="response" inverseEntity="PlanetsRequestEntity"/>
+        <relationship name="results" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="PlanetResponseEntity" inverseName="planetsResponse" inverseEntity="PlanetResponseEntity"/>
+    </entity>
+    <elements>
+        <element name="PlanetsResponseEntity" positionX="-149.90234375" positionY="-137.5924682617188" width="128" height="118"/>
+        <element name="PlanetResponseEntity" positionX="-441.4802856445312" positionY="-380.5817260742188" width="128" height="238"/>
+        <element name="PlanetsRequestEntity" positionX="-279" positionY="-198" width="128" height="59"/>
+    </elements>
+</model>
